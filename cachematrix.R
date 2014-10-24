@@ -1,4 +1,4 @@
-## This pair of functions catches the inverse of a matrix
+## This pair of functions caches the inverse of a matrix
 ## If the inverse was calculated before, this functions reduce calculation time
 
 ## This function creates a special "matrix" object that can cache its inverse
